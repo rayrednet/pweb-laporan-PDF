@@ -7,7 +7,7 @@
 
 Link blog : [blog penjelasan](https://sites.google.com/view/rayssa-blog/pweb/tugas-10-laporan-pdf)
 
-## CRUD Upload Gambar
+## Membuat Laporan PDF
 Website ini merupakan website fiktif untuk mempelajari cara mengimplementasikan CRUD (Create, Read, Update, dan Delete) dengan fitur membuat laporan PDF pada data siswa , 
 sehingga memudahkan dalam mengelola data siswa secara efisien. 
 
